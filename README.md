@@ -38,6 +38,7 @@ Fixed the difficulty range, hint messages were swapped, the New Game button prev
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+![alt text](<Fixed Winning Game.jpg>)
 
 ## 🚀 Stretch Features
 
